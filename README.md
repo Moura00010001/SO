@@ -2,7 +2,7 @@
 
 Repositório designado para as atividades e projetos propostos na disciplina de Sistemas Operacionais 1.
 
-- [Algoritmos de escalonamento de processos](https://github.com/Moura00010001/SO/tree/master/tSO/src/algoritmos)
+- [Algoritmos de escalonamento de processos](https://github.com/Moura00010001/SO/blob/master/tSO/src/algoritmos/Escalonador.java)
 
 ## Contribuidores
 
